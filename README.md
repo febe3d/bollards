@@ -1,1 +1,8 @@
 "# bollards" 
+
+Im adding filters to the bollards of geohints.
+
+
+I have the bollards from
+https://geohints.com/Bollards
+on 2023-10-13
